@@ -1,15 +1,16 @@
 # HR_analytics_dashboard_using_powerbi
 
-I'm excited to share my second MeriSKILL internship project "HR ANALYTICS DASHBOARD" .
+I'm excited to share my second MeriSKILL internship project .
 
-LIVE DASHBOARD: 
-
+🔍 Title: HR ANALYTICS DASHBOARD
 
   ![HR Analytics Dashboard](https://github.com/MaliJaved/HR_analytics_dashboard_using_powerbi/assets/121247667/068e91bc-60cb-43f1-becd-91f55836a75c)
 
 
-🔍 Title: HR ATTRITION REPORT/ DASHBOARD
-Some of the key insights that can be drawn from the dashboards include:
+
+
+# Some of the key insights that can be drawn from the dashboards include:
+
 •	The Sales department has the highest attrition rate, followed by the Research & Development and Marketing departments.
 •	Male employees have a higher attrition rate than female employees.
 •	Employees at the highest job level have the lowest attrition rate.
@@ -17,7 +18,7 @@ Some of the key insights that can be drawn from the dashboards include:
 •	The Sales department has the largest number of employees, followed by the Research & Development and Manufacturing departments.
 •	The most common job roles are Sales Representative, Research Scientist, and Medical Representative.
 
-📋 STEPS FOLLOWED:
+ # STEPS FOLLOWED:
 
 ✅ DATA IMPORT:
 First I Gathered data from Meriskill and imported it into Power BI for data transformation
@@ -31,5 +32,4 @@ I used different DAX functions to create calculated measures and columns, refini
 ✅ REPORTS CREATION:
 First I designed a theme for my report from canva and then imported it to Power BI. After that, I Crafted a user-friendly report/dashboard that helps the organization make important decisions.
 
-My project link 🔗- 
-Live Dashboard 
+Live Dashboard 🔗-
