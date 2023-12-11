@@ -43,4 +43,5 @@ I used different DAX functions to create calculated measures and columns, refini
 
 First I designed a theme for my report from canva and then imported it to Power BI. After that, I Crafted a user-friendly report/dashboard that helps the organization make important decisions.
 
-Live Dashboard 🔗-
+Live Dashboard 🔗- https://lnkd.in/eVUUpVQJ
+
