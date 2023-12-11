@@ -23,6 +23,8 @@ I'm excited to share my second MeriSKILL internship project .
 
 •	The most common job roles are Sales Representative, Research Scientist, and Medical Representative.
 
+•	Employees from Life Sciences has the highest attrition count followed by the Medical Sciences.
+
  # STEPS FOLLOWED:
 
 ✅ DATA IMPORT:
